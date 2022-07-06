@@ -5,7 +5,7 @@
 
 The book itself is a welcome guild to the server, talking about locations to see and useful commands.
 
-Version one of this book is currently not indexed and is wanted.
+This is the second version, the first being found [here](welcome_vantablack420.md).
 
 ## Contents
 ```
