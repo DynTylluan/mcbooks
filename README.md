@@ -18,6 +18,7 @@ This archive does not include books that are already in the game, rather only ma
 | [Unsigned - Unknown Author book 2](books/unsigned2_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 3](books/unsigned3_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 4](books/unsigned4_unknown.md)      | Unknown     |
+| [Unsigned - Unknown Author book 5](books/unsigned5_unknown.md)      | Unknown     |
 | [Unsigned beny9512 book 1](books/unsigned_beny9512.md)      | beny9512     |
 | [Unsigned DynTylluan book 1](books/untitleher0.md)     | DynTylluan
 | [Unsigned DynTylluan book 3](books/unsigned3_dyntylluan.md)      | DynTylluan     |
