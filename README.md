@@ -36,13 +36,13 @@ This archive does not include books that are already in the game, rather only ma
 | [Unsigned Spoopz book 1](books/unsigned_spoopz.md)      | Spoopz     |
 | [Unsigned Spoopz book 1](books/unsigned_spoopz.md)      | Spoopz     |
 | [Unsigned Spoopz book 2](books/unsigned2_spoopz.md)      | Spoopz     |
-| [Unsigned vantablack420 and DynTylluan book 1](books/unsigned2_vantablack420.md)      | vantablack420 and DynTylluan     |
 | [Unsigned vantablack420 and DynTylluan book 1](books/unsigned_vantablack420_dyntylluan.md)      | vantablack420 and DynTylluan     |
 | [Unsigned vantablack420 and DynTylluan book 3](books/unsigned3_vantablack420.md)      | vantablack420 and DynTylluan     |
 | [Unsigned vantablack420 book 1](books/unsigned_vantablack420.md)      | vantablack420     |
 | [Unsigned vantablack420 book 4](books/unsigned4_vantablack420.md)      | vantablack420     |
 | [Unsigned vantablack420 book 5](books/unsigned5_vantablack420.md)      | vantablack420     |
 | [Unsigned vantablack420 book 6](books/unsigned6_vantablack420.md)      | vantablack420     |
+| [Unsigned vantablack420 book 7](books/unsigned2_vantablack420.md)      | vantablack420 and DynTylluan     |
 | [Unsigned wastebin book 1](books/unsigned_wastebin.md)      | wastebin     |
 | [vantablack420](books/vantablack420_ant1her0.md)      | ant1her0     |
 | [Warrant](books/warrant_missmoss.md)      | MissMoss     |
