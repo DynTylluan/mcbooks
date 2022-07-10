@@ -10,17 +10,19 @@ This archive does not include books that are already in the game, rather only ma
 | ------------- |:-------------:|
 | [Example book](books/example_book.md)      | Person     |
 | [cum](books/cum_dyntylluan.md)      | DynTylluan     |
+| [First Book, The](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
 | [Ghostbusters 69](books/ghostbusters_69_onlinedevil.md)      | OnlineDevil     |
 | [Potion Guide](books/potionguide_mossgaarden.md)      | mossgaarden     |
+| [Prowler, The](books/theprowler_dyntylluan.md)      | DynTylluan     |
 | [test](books/test_unknown.md)      | Unknown     |
-| [The First Book](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
-| [The Prowler](books/theprowler_dyntylluan.md)      | DynTylluan     |
 | [Unsigned - Unknown Author book 1](books/unsigned_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 2](books/unsigned2_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 3](books/unsigned3_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 4](books/unsigned4_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 5](books/unsigned5_unknown.md)      | Unknown     |
 | [Unsigned beny9512 book 1](books/unsigned_beny9512.md)      | beny9512     |
+| [Unsigned DynTylluan book 10](books/unsigned10_dyntylluan.md)      | DynTylluan     |
+| [Unsigned DynTylluan book 11](books/unsigned11_dyntylluan.md)      | DynTylluan     |
 | [Unsigned DynTylluan book 1](books/untitleher0.md)     | DynTylluan
 | [Unsigned DynTylluan book 3](books/unsigned3_dyntylluan.md)      | DynTylluan     |
 | [Unsigned DynTylluan book 4](books/unsigned4_dyntylluan.md)      | DynTylluan     |
@@ -29,8 +31,6 @@ This archive does not include books that are already in the game, rather only ma
 | [Unsigned DynTylluan book 7](books/unsigned7_dyntylluan.md)      | DynTylluan     |
 | [Unsigned DynTylluan book 8](books/unsigned8_dyntylluan.md)      | DynTylluan     |
 | [Unsigned DynTylluan book 9](books/unsigned9_dyntylluan.md)      | DynTylluan     |
-| [Unsigned DynTylluan book 10](books/unsigned10_dyntylluan.md)      | DynTylluan     |
-| [Unsigned DynTylluan book 11](books/unsigned11_dyntylluan.md)      | DynTylluan     |
 | [Unsigned MissMoss book 1](books/unsigned_missmoss.md)      | MissMoss     |
 | [Unsigned Nilaky book 1](books/unsigned_nilaky.md)      | Nilaky     |
 | [Unsigned randomuser book 1](books/unsigned_randomuser.md)      | randomuser     |
