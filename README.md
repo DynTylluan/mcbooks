@@ -13,6 +13,7 @@ This archive does not include books that are already in the game, rather only ma
 | [Ghostbusters 69](books/ghostbusters_69_onlinedevil.md)      | OnlineDevil     |
 | [Potion Guide](books/potionguide_mossgaarden.md)      | mossgaarden     |
 | [test](books/test_unknown.md)      | Unknown     |
+| [The First Book](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
 | [The Prowler](books/theprowler_dyntylluan.md)      | DynTylluan     |
 | [Unsigned - Unknown Author book 1](books/unsigned_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 2](books/unsigned2_unknown.md)      | Unknown     |
