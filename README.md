@@ -10,6 +10,7 @@ This archive does not include books that are already in the game, rather only ma
 | ------------- |:-------------:|
 | [Example book](books/example_book.md)      | Person     |
 | [cum](books/cum_dyntylluan.md)      | DynTylluan     |
+| [dozens](books/dozens_ep0k.md)      | ep0k     |
 | [First Book, The](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
 | [Ghostbusters 69](books/ghostbusters_69_onlinedevil.md)      | OnlineDevil     |
 | [Potion Guide](books/potionguide_mossgaarden.md)      | mossgaarden     |
