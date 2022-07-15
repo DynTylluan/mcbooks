@@ -5,7 +5,7 @@
 
 The text is a copy of [English minus the non-Germanic words](https://groups.google.com/g/alt.language.artificial/c/ZL4e3fD7eW0) - published around 1998.
 
-The book is located on [the tilder server](https://mc.tildeverse.org).
+The book is located on [the tilder server](https://mc.tildeverse.org) and was made by [DynTylluan](https://namemc.com/profile/DynTylluan.1).
 
 ## Contents
 ```

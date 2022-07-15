@@ -1,7 +1,7 @@
 # Unsigned by Spoopz
 
 ## About
-Unsigned book written by Spoopz called `unsigned2_spoopz.md` - located at Spoopz's house, by a bedroom area.
+Unsigned book written by [Spoopz](https://namemc.com/profile/Spoopz.4) called `unsigned2_spoopz.md` - located at Spoopz's house, by a bedroom area.
 
 The book is found at 316 / 101 / -18 on [the tilder server](https://mc.tildeverse.org).
 

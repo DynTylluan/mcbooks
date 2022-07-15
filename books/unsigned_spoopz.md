@@ -1,7 +1,7 @@
 # Unsigned by Spoopz
 
 ## About
-This is a guestbook with the index name of `unsigned_spoopz.md` and is found at 305 / 95 / -26 by the outside of a house.
+This is a guestbook with the index name of `unsigned_spoopz.md` and is found at 305 / 95 / -26 by the outside of the house of [Spoopz](https://namemc.com/profile/Spoopz.4).
 
 The book is located on [the tilder server](https://mc.tildeverse.org).
 

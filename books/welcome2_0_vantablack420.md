@@ -1,11 +1,11 @@
 # Welcome! 2.0 by vantablack420
 
 ## About
-`welcome2_0_vantablack420.md`, is a book that is located on [the tilder server](https://mc.tildeverse.org), the book itself has had a number of copies made that have been seen around the world a lot, so its original location is unknown.
+Welcome!, or`welcome2_0_vantablack420.md`, is a book that is located on [the tilder server](https://mc.tildeverse.org), the book itself has had a number of copies made that have been seen around the world a lot, so its original location is unknown.
 
 The book itself is a welcome guild to the server, talking about locations to see and useful commands.
 
-This is the second version, the first being found [here](welcome_vantablack420.md).
+This is the second version, the first being found [here](welcome_vantablack420.md) - both of which were made by [vantablack420](https://namemc.com/profile/vantablack420.1).
 
 ## Contents
 ```

@@ -3,6 +3,8 @@
 ## About
 `potionguide_mossgaarden.md`, is a book that is located on [the tilder server](https://mc.tildeverse.org), the book itself has had a number of copies made, so its original location is unknown.
 
+It was written by [mossgaarden](https://namemc.com/profile/eghn_.1)
+
 ## Contents
 ```
 Base potion types.........2

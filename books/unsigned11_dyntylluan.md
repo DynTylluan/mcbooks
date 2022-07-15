@@ -1,7 +1,7 @@
 # Unsigned by DynTylluan
 
 ## About
-`unsigned11_dyntylluan.md` is a guest and information book written by Cass Python on [the tilder server](https://mc.tildeverse.org), inside of a wooden house at 599 / 64 / 81.
+`unsigned11_dyntylluan.md` is a guest and information book written by [DynTylluan](https://namemc.com/profile/DynTylluan.1) on [the tilder server](https://mc.tildeverse.org), inside of a wooden house at 599 / 64 / 81.
 
 ## Contents
 ```

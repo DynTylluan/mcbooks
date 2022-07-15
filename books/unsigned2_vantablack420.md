@@ -1,7 +1,7 @@
 # Unsigned by vantablack420 and DynTylluan
 
 ## About
-Guestbook book written by vantablack420 and DynTylluan called `unsigned2_vantablack420.md` - located at -22 / 21 / 303 in the underground next to a garden.
+Guestbook book written by [vantablack420](https://namemc.com/profile/vantablack420.1) and [DynTylluan](https://namemc.com/profile/DynTylluan.1) called `unsigned2_vantablack420.md` - located at -22 / 21 / 303 in the underground next to a garden.
 
 The book is located on [the tilder server](https://mc.tildeverse.org).
 

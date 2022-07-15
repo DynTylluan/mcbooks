@@ -1,7 +1,7 @@
 # Note: by ant1her0
 
 ## About
-`note_ant1her0.md` is a book probably by the sysop of [the tilder server](https://mc.tildeverse.org).
+`note_ant1her0.md` is a book probably by the sysop of [the tilder server](https://mc.tildeverse.org), [ant1her0](https://namemc.com/profile/ant1her0.1).
 
 The copy of the text on this file has not been edited despite the `[dgold]` part of the text.
 

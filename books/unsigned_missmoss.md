@@ -3,7 +3,7 @@
 ## About
 This is a welcome book to a large building and is called `unsigned_missmoss.md`, located at 104 / 72 / 323.
 
-The book is located on [the tilder server](https://mc.tildeverse.org).
+The book is located on [the tilder server](https://mc.tildeverse.org) and was made by [MissMoss (https://namemc.com/profile/MissMoss.1).
 
 ## Contents
 ```

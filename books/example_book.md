@@ -1,7 +1,7 @@
 # Book Name by Username
 
 ## About
-Example book, or `example_book.md`, was written by `[Minecraft username]` and is about a subject. It was found in this Minecraft server/world.
+Example book, or `example_book.md`, was written by [User](https://namemc.com) and is about a subject. It was found in this Minecraft server/world.
 
 If relevant, make note of if the book was censored/edited by you in some way and why.
 

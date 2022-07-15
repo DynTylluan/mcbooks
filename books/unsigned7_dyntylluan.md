@@ -5,7 +5,7 @@
 
 The book itself is just a copy of "[My disabled son’s amazing gaming life in the World of Warcraft](https://www.bbc.co.uk/news/disability-47064773)" from BBC News, so as such, reprinting it would be breaking copyright, so only a small section has been posted here.
 
-The book is located on [the tilder server](https://mc.tildeverse.org).
+The book is located on [the tilder server](https://mc.tildeverse.org) and was made by [DynTylluan](https://namemc.com/profile/DynTylluan.1).
 
 ## Contents
 ```

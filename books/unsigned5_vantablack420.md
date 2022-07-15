@@ -1,7 +1,7 @@
 # Unsigned by vantablack420
 
 ## About
-This unsigned book, or `unsigned5_vantablack420.md` was found in a large floating house by spawn on [the tilder server](https://mc.tildeverse.org) inside of a pink shulker box by -84 / 113 / 47.
+This unsigned book, or `unsigned5_vantablack420.md` was found in a large floating house by spawn on [the tilder server](https://mc.tildeverse.org) inside of a pink shulker box by -84 / 113 / 47, being made by [vantablack420](https://namemc.com/profile/vantablack420.1) .
 
 ## Contents
 ```

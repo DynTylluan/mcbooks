@@ -1,7 +1,7 @@
 # Note: by ant1her0
 
 ## About
-`note2_ant1her0.md` is a book probably by the sysop of [the tilder server](https://mc.tildeverse.org).
+`note2_ant1her0.md` is a book probably by the sysop of [the tilder server](https://mc.tildeverse.org), [ant1her0](https://namemc.com/profile/ant1her0.1).
 
 The copy of the text on this file has not been edited despite the `[vantablack]` part of the text.
 

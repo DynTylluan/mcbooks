@@ -7,7 +7,7 @@ The text is a copy of a Mirror article made in 1986 about how students gave more
 
 The source can be [found here](https://cuttingsarchive.org/index.php/Dalek_Beats_Tory_in_Poll).
 
-The book is located on [the tilder server](https://mc.tildeverse.org).
+The book is located on [the tilder server](https://mc.tildeverse.org) and was made by [DynTylluan](https://namemc.com/profile/DynTylluan.1).
 
 ## Contents
 ```

@@ -1,7 +1,7 @@
 # Unsigned by vantablack420
 
 ## About
-Guestbook book that was written by vantablack420 called `unsigned_vantablack420.md` - located near spawn of the world at -46 / 55 / 266.
+Guestbook book that was written by [vantablack420](https://namemc.com/profile/vantablack420.1) called `unsigned_vantablack420.md` - located near spawn of the world at -46 / 55 / 266.
 
 The book is located on [the tilder server](https://mc.tildeverse.org).
 

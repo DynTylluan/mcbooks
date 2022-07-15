@@ -1,7 +1,7 @@
-# Unsigned by vantablack420 and DynTylluan
+# Unsigned by vantablack420
 
 ## About
-Guestbook book written by vantablack420 called `unsigned3_vantablack420.md` - located at -114 / 6 / 239 in the underground, inside of a hotel.
+Guestbook book written by [vantablack420](https://namemc.com/profile/vantablack420.1)  called `unsigned3_vantablack420.md` - located at -114 / 6 / 239 in the underground, inside of a hotel.
 
 The book is located on [the tilder server](https://mc.tildeverse.org).
 
