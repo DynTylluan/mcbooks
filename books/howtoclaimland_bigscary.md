@@ -5,6 +5,8 @@
 
 The URL in this book leads to [this YouTube playlist](https://www.youtube.com/watch?v=VDsjXB-BaE0&list=PL6diNfcl9_VzUvUvQWrDsQfYoSs3Oizly&index=2).
 
+A parady version was made by DynTylluan called [Cwaim Wand UwU](cwaimwanduwu_dyntylluan.md).
+
 ## Contents
 ```
 Click: bit.ly/mcgpuser

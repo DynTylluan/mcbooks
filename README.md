@@ -9,10 +9,12 @@ This archive does not include books that are already in the game, rather only ma
 | Title         | Arthur        |
 | ------------- |:-------------:|
 | [Example book](books/example_book.md)      | Person     |
+| [Claim Land UwU](books/cwaimwanduwu_dyntylluan.md)      | DynTylluan     |
 | [cum](books/cum_dyntylluan.md)      | DynTylluan     |
 | [dozens](books/dozens_ep0k.md)      | ep0k     |
 | [First Book, The](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
 | [Ghostbusters 69](books/ghostbusters_69_onlinedevil.md)      | OnlineDevil     |
+| [How to Claim Land](books/howtoclaimland_bigscary.md)      | BigScary     |
 | [Potion Guide](books/potionguide_mossgaarden.md)      | mossgaarden     |
 | [Prowler, The](books/theprowler_dyntylluan.md)      | DynTylluan     |
 | [test](books/test_unknown.md)      | Unknown     |
