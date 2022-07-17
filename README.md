@@ -62,7 +62,9 @@ Some books are known to exist, but no copies have been found, so if you find one
 | Title         | Arthur        | About        |
 | ------------- |:-------------:|:-------------:|
 | [Example book](books/example_book.md)      | Person     | Talk about why this book is missing     |
+| Possible vantablack guestbook      | vantablack420     | Might exist - a guestbook for a [second room is known](books/unsigned_vantablack420.md), but if the first had a guestbook is unknown     |
 
 </center>
 
 <center>★</center>
+
