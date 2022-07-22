@@ -15,6 +15,7 @@ This archive does not include books that are already in the game, rather only ma
 | [First Book, The](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
 | [Ghostbusters 69](books/ghostbusters_69_onlinedevil.md)      | OnlineDevil     |
 | [How to Claim Land](books/howtoclaimland_bigscary.md)      | BigScary     |
+| [Meet The Klan](books/meettheklan_dyntylluan.md)      | DynTylluan     |
 | [Potion Guide](books/potionguide_mossgaarden.md)      | mossgaarden     |
 | [Prowler, The](books/theprowler_dyntylluan.md)      | DynTylluan     |
 | [test](books/test_unknown.md)      | Unknown     |
@@ -67,4 +68,3 @@ Some books are known to exist, but no copies have been found, so if you find one
 </center>
 
 <center>★</center>
-
