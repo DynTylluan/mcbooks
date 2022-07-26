@@ -9,6 +9,7 @@ This archive does not include books that are already in the game, rather only ma
 | Title         | Arthur        |
 | ------------- |:-------------:|
 | [Example book](books/example_book.md)      | Person     |
+| [An Ex-Friend](books/anexfriend_dyntylluan.md)      | DynTylluan     |
 | [Claim Land UwU](books/cwaimwanduwu_dyntylluan.md)      | DynTylluan     |
 | [cum](books/cum_dyntylluan.md)      | DynTylluan     |
 | [die](books/die_alphkitsu.md)      | alphkitsu     |
