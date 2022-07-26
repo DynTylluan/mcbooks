@@ -1,7 +1,7 @@
 # An Ex-Friend by DynTylluan
 
 ## About
-An Ex-Friend, or `anexfriend_dyntylluan.md`, is a signed book by [DynTylluan](https://namemc.com/profile/DynTylluan.1) that was found in a hole at 1067 / 76 / 899 on [old world for NeoZones](https://mc.neozones.club/#world-1-17-1).
+An Ex-Friend, or `anexfriend_dyntylluan.md`, is a signed book by [DynTylluan](https://namemc.com/profile/DynTylluan.1) that was found in a hole at 1067 / 76 / 899 on the [old world for NeoZones](https://mc.neozones.club/#world-1-17-1).
 
 ## Contents
 ```
