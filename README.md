@@ -11,22 +11,18 @@ This archive does not include books that are already in the game, rather only ma
 | [Example book](books/example_book.md)      | Person     |
 | [An Ex-Friend](books/anexfriend_dyntylluan.md)      | DynTylluan     |
 | [Claim Land UwU](books/cwaimwanduwu_dyntylluan.md)      | DynTylluan     |
-| [cum](books/cum_dyntylluan.md)      | DynTylluan     |
-| [die](books/die_alphkitsu.md)      | alphkitsu     |
-| [dozens](books/dozens_ep0k.md)      | ep0k     |
 | [First Book, The](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
 | [Ghostbusters 69](books/ghostbusters_69_onlinedevil.md)      | OnlineDevil     |
 | [How to Claim Land](books/howtoclaimland_bigscary.md)      | BigScary     |
 | [Meet The Klan](books/meettheklan_dyntylluan.md)      | DynTylluan     |
 | [Potion Guide](books/potionguide_mossgaarden.md)      | mossgaarden     |
 | [Prowler, The](books/theprowler_dyntylluan.md)      | DynTylluan     |
-| [test](books/test_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 1](books/unsigned_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 2](books/unsigned2_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 3](books/unsigned3_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 4](books/unsigned4_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 5](books/unsigned5_unknown.md)      | Unknown     |
-| [Unsigned beny9512 book 1](books/unsigned_beny9512.md)      | beny9512     |
+| [Unsigned - Unknown Author book 6](books/unsigned6_unknown.md)      | Unknown     |
 | [Unsigned DynTylluan book 10](books/unsigned10_dyntylluan.md)      | DynTylluan     |
 | [Unsigned DynTylluan book 11](books/unsigned11_dyntylluan.md)      | DynTylluan     |
 | [Unsigned DynTylluan book 1](books/untitleher0.md)     | DynTylluan
@@ -39,10 +35,13 @@ This archive does not include books that are already in the game, rather only ma
 | [Unsigned DynTylluan book 9](books/unsigned9_dyntylluan.md)      | DynTylluan     |
 | [Unsigned MissMoss book 1](books/unsigned_missmoss.md)      | MissMoss     |
 | [Unsigned Nilaky book 1](books/unsigned_nilaky.md)      | Nilaky     |
-| [Unsigned randomuser book 1](books/unsigned_randomuser.md)      | randomuser     |
 | [Unsigned Spoopz book 1](books/unsigned_spoopz.md)      | Spoopz     |
 | [Unsigned Spoopz book 1](books/unsigned_spoopz.md)      | Spoopz     |
 | [Unsigned Spoopz book 2](books/unsigned2_spoopz.md)      | Spoopz     |
+| [Unsigned beny9512 book 1](books/unsigned_beny9512.md)      | beny9512     |
+| [Unsigned inthreedee book 1](books/unsigned2_inthreedee.md)      | inthreedee     |
+| [Unsigned inthreedee book 1](books/unsigned_inthreedee.md)      | inthreedee     |
+| [Unsigned randomuser book 1](books/unsigned_randomuser.md)      | randomuser     |
 | [Unsigned vantablack420 and DynTylluan book 1](books/unsigned_vantablack420_dyntylluan.md)      | vantablack420 and DynTylluan     |
 | [Unsigned vantablack420 and DynTylluan book 3](books/unsigned3_vantablack420.md)      | vantablack420 and DynTylluan     |
 | [Unsigned vantablack420 book 1](books/unsigned_vantablack420.md)      | vantablack420     |
@@ -51,9 +50,13 @@ This archive does not include books that are already in the game, rather only ma
 | [Unsigned vantablack420 book 6](books/unsigned6_vantablack420.md)      | vantablack420     |
 | [Unsigned vantablack420 book 7](books/unsigned2_vantablack420.md)      | vantablack420 and DynTylluan     |
 | [Unsigned wastebin book 1](books/unsigned_wastebin.md)      | wastebin     |
-| [vantablack420](books/vantablack420_ant1her0.md)      | ant1her0     |
 | [Warrant](books/warrant_missmoss.md)      | MissMoss     |
 | [Welcome! 2.0](books/welcome2_0_vantablack420.md)      | vantablack420     |
+| [cum](books/cum_dyntylluan.md)      | DynTylluan     |
+| [die](books/die_alphkitsu.md)      | alphkitsu     |
+| [dozens](books/dozens_ep0k.md)      | ep0k     |
+| [test](books/test_unknown.md)      | Unknown     |
+| [vantablack420](books/vantablack420_ant1her0.md)      | ant1her0     |
 | [welcome!](books/welcome_vantablack420.md)      | vantablack420     |
 </center>
 
