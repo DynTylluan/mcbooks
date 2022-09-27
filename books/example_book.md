@@ -5,7 +5,7 @@ Example book, or `example_book.md`, was written by [User](https://namemc.com) an
 
 If relevant, make note of if the book was censored/edited by you in some way and why.
 
-If relevant, feel free to say if the book is an original, copy of an original or a copy of a copy.
+Following this, feel free to say if the book is an original, copy of an original or a copy of a copy.
 
 The book was found at XXX / XXX / XXX, near this location/a short bio about this location.
 
