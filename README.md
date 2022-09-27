@@ -9,6 +9,7 @@ This archive does not include books that are already in the game, rather only ma
 | Title         | Arthur        |
 | ------------- |:-------------:|
 | [Example book](books/example_book.md)      | Person     |
+| [100 gecs](books/100_gecs_vantablack420.md)      | DynTylluan     |
 | [An Ex-Friend](books/anexfriend_dyntylluan.md)      | DynTylluan     |
 | [Claim Land UwU](books/cwaimwanduwu_dyntylluan.md)      | DynTylluan     |
 | [First Book, The](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
