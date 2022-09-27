@@ -49,6 +49,7 @@ This archive does not include books that are already in the game, rather only ma
 | [Unsigned vantablack420 book 5](books/unsigned5_vantablack420.md)      | vantablack420     |
 | [Unsigned vantablack420 book 6](books/unsigned6_vantablack420.md)      | vantablack420     |
 | [Unsigned vantablack420 book 7](books/unsigned2_vantablack420.md)      | vantablack420 and DynTylluan     |
+| [lol](books/lol_vantablack420.md)      | vantablack420     |
 | [Unsigned wastebin book 1](books/unsigned_wastebin.md)      | wastebin     |
 | [Warrant](books/warrant_missmoss.md)      | MissMoss     |
 | [Welcome! 2.0](books/welcome2_0_vantablack420.md)      | vantablack420     |
