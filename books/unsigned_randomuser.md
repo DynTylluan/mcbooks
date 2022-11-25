@@ -1,7 +1,7 @@
 # Unsigned by randomuser
 
 ## About
-`unsigned_randomuser.md` is an unsigned book found by spawn at -75 / 55 / 194 on [the tilder server](https://mc.tildeverse.org) inside of the metro, being written by [randomuser](https://namemc.com/profile/randomuser.2).
+`unsigned_randomuser.md` is an unsigned book found by spawn at -75 / 55 / 194 on [the tilder server](https://mc.tildeverse.org) in the overworld inside of the metro, being written by [randomuser](https://namemc.com/profile/randomuser.2).
 
 ## Contents
 ```

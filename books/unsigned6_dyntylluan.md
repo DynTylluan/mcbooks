@@ -1,7 +1,7 @@
 # Unsigned by DynTylluan
 
 ## About
-`unsigned6_dyntylluan.md`, located at -26 / 64 / 244 is found in a big book building.
+`unsigned6_dyntylluan.md`, located at -26 / 64 / 244 is found in a big book building in the overworld.
 
 The text is a copy of [English minus the non-Germanic words](https://groups.google.com/g/alt.language.artificial/c/ZL4e3fD7eW0) - published around 1998.
 

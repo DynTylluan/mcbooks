@@ -1,7 +1,7 @@
 # Unsigned by DynTylluan
 
 ## About
-Unsigned book, or `unsigned3_dyntylluan.md`, was written by [DynTylluan](https://namemc.com/profile/DynTylluan.1) and can be found in a small wooden house, located at 428 / 88 / 81.
+Unsigned book, or `unsigned3_dyntylluan.md`, was written by [DynTylluan](https://namemc.com/profile/DynTylluan.1) and can be found in a small wooden house, located at 428 / 88 / 81 in the overworld.
 
 The book is located on [the tilder server](https://mc.tildeverse.org/).
 

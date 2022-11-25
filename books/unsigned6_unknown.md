@@ -1,7 +1,7 @@
 # Unsigned Book by Unknown
 
 ## About
-Unsigned book that is known as `unsigned6_unknown.md` was  found in the Nether at -863 / 22 / -175 on [mc.tildeverse.org](https://mc.tildeverse.org).
+Unsigned book that is known as `unsigned6_unknown.md` was found in the Nether at -863 / 22 / -175 on [mc.tildeverse.org](https://mc.tildeverse.org).
 
 ## Contents
 ```

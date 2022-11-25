@@ -1,7 +1,7 @@
 # Unsigned by Unknown
 
 ## About
-`unsigned3_unknown.md`, located at -112 / 6 / 311 is found in a large underground section.
+`unsigned3_unknown.md`, located at -112 / 6 / 311 is found in a large underground section in the overworld.
 
 The book is located on [the tilder server](https://mc.tildeverse.org).
 

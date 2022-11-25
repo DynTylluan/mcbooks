@@ -1,7 +1,7 @@
 # Unsigned by Unknown
 
 ## About
-`unsigned4_unknown.md` is an unsigned book found in a water area trading hall at -928 / 40 / -1424 on [the tilder server](https://mc.tildeverse.org).
+`unsigned4_unknown.md` is an unsigned book found in a water area trading hall at -928 / 40 / -1424 on [the tilder server](https://mc.tildeverse.org) in the overworld.
 
 ## Contents
 ```

@@ -3,7 +3,7 @@
 ## About
 `unsigned_beny9512.md` is a guest book made by [beny9512](https://namemc.com/profile/beny9512.1) for their house that is located on [the tilder server](https://mc.tildeverse.org).
 
-The book is found at -111 / 68 / 490.
+The book is found at -111 / 68 / 490 in the overworld.
 
 ## Contents
 ```

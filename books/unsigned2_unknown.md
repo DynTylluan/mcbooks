@@ -1,7 +1,7 @@
 # Unsigned by Unknown
 
 ## About
-This is a welcome book to a large library and is called `unsigned2_unknown.md`, located at -10 / 64 / 94.
+This is a welcome book to a large library and is called `unsigned2_unknown.md`, located at -10 / 64 / 94 in the overworld.
 
 The book is located on [the tilder server](https://mc.tildeverse.org).
 

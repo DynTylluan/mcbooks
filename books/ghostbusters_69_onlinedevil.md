@@ -3,7 +3,7 @@
 ## About
 Ghostbusters, or `ghostbusters_69_onlinedevil.md`, was written by Bruno A. and is a joke script idea about the Ghostbusters, as based upon a video by Joel of Vinesause. It was found in the [NeoZones Minecraft server](https://mc.neozones.club), being written by [OnlineDevil](https://namemc.com/profile/OnlineDevil.1).
 
-The book was found at -20 / 111 / 4, very near spawn.
+The book was found at -20 / 111 / 4, very near spawn in the overworld.
 
 ## Contents
 ```

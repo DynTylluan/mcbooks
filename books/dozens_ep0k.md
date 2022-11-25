@@ -3,7 +3,7 @@
 ## About
 dozens is a book that was written by [ep0k](https://namemc.com/profile/ep0k.1) for Minecraft user, [dozens](https://namemc.com/profile/dozens.1). The signed book is also known as `dozens_ep0k.md`.
 
-It was found at -964 / 44 / -1401 on [the tildeverse Minecraft server](https://mc.tildeverse.org) by a book area.
+It was found at -964 / 44 / -1401 on [the tildeverse Minecraft server](https://mc.tildeverse.org) by a book area in the overworld.
 
 ## Contents
 ```

@@ -5,7 +5,7 @@
 
 The copy of the text on this file has not been edited despite the `[dgold]` part of the text.
 
-The book is found at 67 / 65 / 181.
+The book is found at 67 / 65 / 181 in the overworld.
 
 ## Contents
 ```

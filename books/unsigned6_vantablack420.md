@@ -3,7 +3,7 @@
 ## About
 `unsigned6_vantablack420.md` is an unsigned book by [vantablack420](https://namemc.com/profile/vantablack420.1) that currently only has a quote by [Alexander Berkman](https://en.wikipedia.org/wiki/Alexander_Berkman) written in it.
 
-the book can be found on [the tilder server](https://mc.tildeverse.org) by -89 / 113 / 56.
+The book can be found on [the tilder server](https://mc.tildeverse.org) by -89 / 113 / 56 in the overworld.
 
 ## Contents
 ```

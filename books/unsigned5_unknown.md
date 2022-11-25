@@ -1,7 +1,7 @@
 # Unsigned by Unknown
 
 ## About
-This unsigned book, `unsigned5_unknown.md`, was found somewhat a long way away from spawn at -47 / 61 / -1036 on [the tilder server](https://mc.tildeverse.org).
+This unsigned book, `unsigned5_unknown.md`, was found somewhat a long way away from spawn at -47 / 61 / -1036 on [the tilder server](https://mc.tildeverse.org) in the overworld.
 
 The book is unique as it was written in both English and Russia.
 
@@ -9,7 +9,7 @@ It was made in 2020 and was translated by someone called CoderSiri (this is not 
 
 The book makes reference to the player using the `/rtp` command - this will teleport a user to a random location in the server.
 
-The text was not edited in anyway.
+The text below was not edited in anyway.
 
 ## Contents
 ```

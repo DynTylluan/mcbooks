@@ -1,7 +1,7 @@
 # Unsigned by DynTylluan
 
 ## About
-`unsigned7_dyntylluan.md`, located at -26 / 64 / 244 is found in a big book building.
+`unsigned7_dyntylluan.md`, located at -26 / 64 / 244 is found in a big book building in the overworld.
 
 The book itself is just a copy of "[My disabled son’s amazing gaming life in the World of Warcraft](https://www.bbc.co.uk/news/disability-47064773)" from BBC News, so as such, reprinting it would be breaking copyright, so only a small section has been posted here.
 

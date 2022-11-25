@@ -1,7 +1,7 @@
 # The First Book by DynTylluan
 
 ## About
-Signed book by [DynTylluan](https://namemc.com/profile/DynTylluan.1) called The First Book, or `thefirstbook_dyntylluan.md` that can be found at 150 / 64 / 317 very near spawn in a frame on [transcraft](http://transcraft.xyz) by 94 / 64 / -136.
+Signed book by [DynTylluan](https://namemc.com/profile/DynTylluan.1) called The First Book, or `thefirstbook_dyntylluan.md` that can be found at 150 / 64 / 317 very near spawn in a frame on [transcraft](http://transcraft.xyz) by 94 / 64 / -136 in the overworld.
 
 ## Contents
 ```

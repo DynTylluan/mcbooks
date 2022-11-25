@@ -1,7 +1,7 @@
 # The Prowler by DynTylluan
 
 ## About
-_The Prowler_, or `theprowler_dyntylluan.md`, is a book written by [DynTylluan](https://namemc.com/profile/DynTylluan.1), it is a poem and is found in a secret room at -52 / 56 / 273 on [tildecraft](https://mc.tildeverse.org).
+_The Prowler_, or `theprowler_dyntylluan.md`, is a book written by [DynTylluan](https://namemc.com/profile/DynTylluan.1), it is a poem and is found in a secret room at -52 / 56 / 273 on [tildecraft](https://mc.tildeverse.org) in the overworld.
 
 The poem was first [posted here](https://owlman.neocities.org/library/midnight/43.html).
 

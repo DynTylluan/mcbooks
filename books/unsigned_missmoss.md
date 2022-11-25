@@ -1,7 +1,7 @@
 # Unsigned by MissMoss
 
 ## About
-This is a welcome book to a large building and is called `unsigned_missmoss.md`, located at 104 / 72 / 323.
+This is a welcome book to a large building and is called `unsigned_missmoss.md`, located at 104 / 72 / 323 in the overworld.
 
 The book is located on [the tilder server](https://mc.tildeverse.org) and was made by [MissMoss (https://namemc.com/profile/MissMoss.1).
 

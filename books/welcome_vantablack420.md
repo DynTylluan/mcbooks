@@ -3,7 +3,7 @@
 ## About
 `welcome_vantablack420.md` is a welcome book from [the tilder server](https://mc.tildeverse.org), a [second version would be made](welcome2_0_vantablack420.md) later, both of which were written by [vantablack420](https://namemc.com/profile/vantablack420.1).
 
-The book is found at -89 / 113 / 56 in a large flating building found near spawn.
+The book is found at -89 / 113 / 56 in a large flating building found near spawn in the overworld.
 
 ## Contents
 ```

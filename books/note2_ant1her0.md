@@ -5,7 +5,7 @@
 
 The copy of the text on this file has not been edited despite the `[vantablack]` part of the text.
 
-The book is found at -83 / 113 / 54.
+The book is found at -83 / 113 / 54 in the overworlds.
 
 ## Contents
 ```

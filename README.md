@@ -35,6 +35,7 @@ This archive does not include books that are already in the game, rather only ma
 | [Unsigned DynTylluan book 7](books/unsigned7_dyntylluan.md)      | DynTylluan     |
 | [Unsigned DynTylluan book 8](books/unsigned8_dyntylluan.md)      | DynTylluan     |
 | [Unsigned DynTylluan book 9](books/unsigned9_dyntylluan.md)      | DynTylluan     |
+| [Unsigned](books/unsigned_ep0k.md)      | ep0k     |
 | [Unsigned MissMoss book 1](books/unsigned_missmoss.md)      | MissMoss     |
 | [Unsigned Nilaky book 1](books/unsigned_nilaky.md)      | Nilaky     |
 | [Unsigned Spoopz book 1](books/unsigned_spoopz.md)      | Spoopz     |

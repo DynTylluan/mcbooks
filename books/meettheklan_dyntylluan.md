@@ -1,7 +1,7 @@
 # Meet The Klan by DynTylluan
 
 ## About
-Meet The Klan, or `meettheklan_dyntylluan.md`, is a signed book by [DynTylluan](https://namemc.com/profile/DynTylluan.1) that is a copy of an anti-KKK poem, When You Meet A Member Of The Ku Klux Klan by Robert L. Poston, found at 70 / 68 / 84 on the [world for NeoZones](https://mc.neozones.club).
+Meet The Klan, or `meettheklan_dyntylluan.md`, is a signed book by [DynTylluan](https://namemc.com/profile/DynTylluan.1) that is a copy of an anti-KKK poem, When You Meet A Member Of The Ku Klux Klan by Robert L. Poston, found at 70 / 68 / 84 on the [world for NeoZones](https://mc.neozones.club) in the overworld.
 
 ## Contents
 ```

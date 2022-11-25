@@ -3,7 +3,7 @@
 ## About
 As written by [DynTylluan](https://namemc.com/profile/DynTylluan.1), _Cwaim Wand UwU_, or `cwaimwanduwu_dyntylluan.md` is a UwU version of [How to Claim Land by BigScary](howtoclaimland_bigscary.md).
 
-The book was made on the [tildecraft](https://mc.tildeverse.org) Minecraft server, with copies being made.
+The book was made on the [tildecraft](https://mc.tildeverse.org) Minecraft server, with many copies being made.
 
 ## Contents
 ```

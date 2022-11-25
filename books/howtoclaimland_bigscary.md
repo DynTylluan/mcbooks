@@ -1,7 +1,7 @@
 # How to Claim Land by BigScary
 
 ## About
-`howtoclaimland_bigscary.md`, is a book that is located on [the tilder server](https://mc.tildeverse.org), the book itself has had a number of copies made and is seen a lot around the world, so its original location is unknown. It was made by [BigScary](https://namemc.com/profile/BigScary.2)
+`howtoclaimland_bigscary.md`, is a book that is located on [the tilder server](https://mc.tildeverse.org), the book itself has had a number of copies made and is seen a lot around the world, so its original location is unknown. It was made by [BigScary](https://namemc.com/profile/BigScary.2).
 
 The URL in this book leads to [this YouTube playlist](https://www.youtube.com/watch?v=VDsjXB-BaE0&list=PL6diNfcl9_VzUvUvQWrDsQfYoSs3Oizly&index=2).
 
