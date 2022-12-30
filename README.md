@@ -1,5 +1,4 @@
 # Minecraft Book Collection
-# Minecraft Book Collection
 One fun feature of Minecraft is the ability to make [written books](https://minecraft.fandom.com/wiki/Written_Book), this can be in single-player worlds and also SMPs - one issue is that books can get lost or stolen by people, so as a way to keep a nice little record of user-made books in servers, this git is meant to be a collection of found books.
 
 This archive does not include books that are already in the game, but rather only made by players.
@@ -52,6 +51,8 @@ If you want to add to this archive, either contact the owner, Cass (Discord: Owl
 | [Unsigned inthreedee book 1](books/unsigned_inthreedee.md)      | inthreedee     |
 | [Unsigned MissMoss book 1](books/unsigned_missmoss.md)      | MissMoss     |
 | [Unsigned Nilaky book 1](books/unsigned_nilaky.md)      | Nilaky     |
+| [Unsigned PingMastered book](books/unsigned_pingmastered.md)      | PingMastered     |
+| [Unsigned PingMastered book](books/unsigned_pingmastered2.md)      | PingMastered     |
 | [Unsigned randomuser book 1](books/unsigned_randomuser.md)      | randomuser     |
 | [Unsigned Spoopz book 1](books/unsigned_spoopz.md)      | Spoopz     |
 | [Unsigned Spoopz book 1](books/unsigned_spoopz.md)      | Spoopz     |
