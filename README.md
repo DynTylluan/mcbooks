@@ -14,11 +14,13 @@ If you want to add to this archive, either contact the owner, Cass (Discord: Owl
 | [100 gecs](books/100_gecs_vantablack420.md)      | vantablack420     |
 | [An Ex-Friend](books/anexfriend_dyntylluan.md)      | DynTylluan     |
 | [Claim Land UwU](books/cwaimwanduwu_dyntylluan.md)      | DynTylluan     |
+| [clock.py](books/clock_py_dyntylluan.md)      | DynTylluan     |
 | [cum](books/cum_dyntylluan.md)      | DynTylluan     |
 | [die](books/die_alphkitsu.md)      | alphkitsu     |
 | [dozens](books/dozens_ep0k.md)      | ep0k     |
 | [First Book, The](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
 | [Ghostbusters 69](books/ghostbusters_69_onlinedevil.md)      | OnlineDevil     |
+| [Hello There!](books/hello_there__dyntylluan.md)      | DynTylluan     |
 | [How to Claim Land](books/howtoclaimland_bigscary.md)      | BigScary     |
 | [I uh](books/i_uh_midnightbeuaw.md)      | MidnightBeuaw     |
 | [lol](books/lol_vantablack420.md)      | vantablack420     |
@@ -72,6 +74,7 @@ If you want to add to this archive, either contact the owner, Cass (Discord: Owl
 | [Warrant](books/warrant_missmoss.md)      | MissMoss     |
 | [Welcome! 2.0](books/welcome2_0_vantablack420.md)      | vantablack420     |
 | [welcome!](books/welcome_vantablack420.md)      | vantablack420     |
+| [What trades we have](books/what_trades_we_have_dyntylluan.md)      | DynTylluan     |
 </center>
 ## Wanted Books
 Some books are known to exist, but no copies have been found, so if you find one of the books listed below, please submit it to this archive - thank you.
