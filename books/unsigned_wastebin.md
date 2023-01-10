@@ -5,6 +5,8 @@
 
 The book was found in a chest with seemingly no other books around that location, even after looking.
 
+Why these coordinates were written is unknown, as when going to 150, XXX, -25, nothing of note is seen there. If there _was_ anything to be seen, it is now gone.
+
 ## Contents
 ```
 Nether:§0

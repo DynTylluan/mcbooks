@@ -21,14 +21,17 @@ If you want to add to this archive, either contact the owner, Cass (Discord: Owl
 | [First Book, The](books/thefirstbook_dyntylluan.md)      | DynTylluan     |
 | [Ghostbusters 69](books/ghostbusters_69_onlinedevil.md)      | OnlineDevil     |
 | [Hello There!](books/hello_there__dyntylluan.md)      | DynTylluan     |
+| [Help FactorySMP](books/help_factorysmp_syxio.md)      | syxio     |
 | [How to Claim Land](books/howtoclaimland_bigscary.md)      | BigScary     |
 | [I uh](books/i_uh_midnightbeuaw.md)      | MidnightBeuaw     |
 | [lol](books/lol_vantablack420.md)      | vantablack420     |
 | [Meet The Klan](books/meettheklan_dyntylluan.md)      | DynTylluan     |
 | [Potion Guide](books/potionguide_mossgaarden.md)      | mossgaarden     |
 | [Prowler, The](books/theprowler_dyntylluan.md)      | DynTylluan     |
+| [Rules](books/rules_ohaitrans.md)      | ohaitrans     |
 | [Rules](books/rules_unknown.md)      | Unknown     |
 | [Rules](books/rules_xxacecutexx.md)      | XxAceCutexX     |
+| [Server List](books/server_list_syxio.md)      | syxio     |
 | [Starting Book by Unknown](books/starting_book_unknown.md)      | Unknown     |
 | [test](books/test_unknown.md)      | Unknown     |
 | [Unsigned - Unknown Author book 1](books/unsigned_unknown.md)      | Unknown     |
@@ -70,13 +73,16 @@ If you want to add to this archive, either contact the owner, Cass (Discord: Owl
 | [Unsigned](books/unsigned_ep0k.md)      | ep0k     |
 | [Untitled German Book 1](books/germanbook1_unknown.md)      | Unknown     |
 | [Untitled German Book 2](books/germanbook2_unknown.md)      | Unknown     |
+| [Untitled welcome book](books/untitled_welcome_book_by_unknown.md)      | Unknown     |
 | [vantablack420](books/vantablack420_ant1her0.md)      | ant1her0     |
 | [Warrant](books/warrant_missmoss.md)      | MissMoss     |
 | [Welcome! 2.0](books/welcome2_0_vantablack420.md)      | vantablack420     |
 | [welcome!](books/welcome_vantablack420.md)      | vantablack420     |
 | [What trades we have](books/what_trades_we_have_dyntylluan.md)      | DynTylluan     |
 </center>
+
 ## Wanted Books
+
 Some books are known to exist, but no copies have been found, so if you find one of the books listed below, please submit it to this archive - thank you.
 
 <center>
